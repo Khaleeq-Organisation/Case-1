@@ -1,5 +1,0 @@
-
-
-
-
-This is line of 5 of file.txt
